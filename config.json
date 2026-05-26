@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "tokenserify",
+        "uuid": 8909962,
+        "checksum": "dvibro"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
